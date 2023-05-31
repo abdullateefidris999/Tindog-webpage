@@ -28,7 +28,7 @@ body{
 }
 
 .navbar{
-    padding: 0 0 4.5rem 0;
+    padding: 0 0 2rem 0;
 }
 
 .nav-item{
@@ -52,6 +52,7 @@ body{
     width: 20%;
     transform: rotate(25deg);
     right: 25% ;
+
     
    
 }
